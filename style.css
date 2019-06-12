@@ -1,0 +1,22 @@
+/*
+Theme Name: CBM Web Development
+Theme URI: http://www.cbmwebdevelopment.com/
+Author: CBM Web Development
+Author URI: http://www.cbmwebdevelopment.com/
+Description: The CBM Web Development theme is for CBM Web Development - a freelance web, software, and mobile application development company that specializes in development projects for small businesses. We believe in supporting open source projects and want anyone who finds this theme interested to use, change, modify, and improve it.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: 
+Text Domain: cbmwebdevelopment
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+img.alignright { float: right; margin: 0 0 1em 1em; }
+img.alignleft { float: left; margin: 0 1em 1em 0; }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignright { float: right; }
+.alignleft { float: left; }
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }

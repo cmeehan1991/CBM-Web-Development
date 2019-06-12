@@ -1,0 +1,8 @@
+[04-Feb-2018 07:17:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/cmeehan/public_html/cbmwebdevelopment.com/wp-content/themes/cbmwebdevelopment/functions.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/cmeehan/public_html/cbmwebdevelopment.com/wp-content/themes/cbmwebdevelopment/functions.php on line 2
+[04-Feb-2018 07:17:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/cmeehan/public_html/cbmwebdevelopment.com/wp-content/themes/cbmwebdevelopment/functions.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/cmeehan/public_html/cbmwebdevelopment.com/wp-content/themes/cbmwebdevelopment/functions.php on line 2

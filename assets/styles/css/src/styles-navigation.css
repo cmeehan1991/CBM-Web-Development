@@ -1,0 +1,46 @@
+.navbar{
+    width:100% !important;
+    border-radius: 0px;
+}
+
+.navbar-brand, .navbar-nav li a{
+    color:#ffffff !important;
+    font-size:18px;
+}
+
+.navbar-brand{
+    font-size: 24px;
+}
+
+
+.navbar-nav li a:hover{
+    background:none;
+    text-decoration: underline;
+}
+
+.dropdown-toggle:hover .dropdown-menu{
+	display: inline-block;
+}
+
+
+.fade-in-top.bg-light{
+	background:transparent !important;
+}
+
+.bg-light.navbar-fill{
+	transition: background-color 0.5s ease;
+	background-color: #ffffff !important;
+}
+
+.navbar-fill .navbar-nav li.menu-item a, .navbar-fill .navbar-brand{
+	color:#000000 !important;
+}
+
+.navbar-toggler{
+	color:#ffffff !important;
+	border:none !important;
+}
+
+.navbar-fill .navbar-toggler{
+	color:#000000 !important;
+}
